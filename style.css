@@ -105,7 +105,7 @@ nav ul li a:hover {
 .hero {
     position: relative;
     height: 90vh;
-    background: url('images/beautiful-photozone-with-big-wreath-decorated-with-greenery-roses-centerpiece-candles-sides-garland-hanged-trees.jpg') no-repeat center center/cover;
+    background: url('beautiful-photozone-with-big-wreath-decorated-with-greenery-roses-centerpiece-candles-sides-garland-hanged-trees.jpg') no-repeat center center/cover;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -624,7 +624,7 @@ height:150px;
 .inquiry-section {
     position: relative;
     width: 100%;
-    background: url('images/notblur.webp') no-repeat center center/cover;
+    background: url('notblur.webp') no-repeat center center/cover;
     height: 250px;
     display: flex;
     align-items: center;
